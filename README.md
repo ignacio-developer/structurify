@@ -1,4 +1,5 @@
-## The practice task
+## THIS IS A PRACTICE TASK TO BUILD A INFRASTRUCTURE INSPECTOR TOOL FOR BIG ENERGY PROVIDERS COMPANIES (e.g Windmills)
+
 We've designed this task to try and give you the ability to show us what you can do and hopefully flex your technical and creative muscles. You can't show off too much here, show us you at your best and wow us!
 
 To make things as simple as we could, we've opted to use [Laravel Sail](https://laravel.com/docs/8.x/sail) to provide a quick and convenient development environment, this will require you to install
